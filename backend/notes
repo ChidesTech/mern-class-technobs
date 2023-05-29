@@ -1,0 +1,25 @@
+1. Open up the terminal, be in the root directory
+2. Run this command "npm init"
+3. Press Enter until a node project is initiated
+4. Install the following dependencies
+  * express - A node framework
+  * nodemon - Node package to rerun the node server after every changes made
+  * bcryptjs - Used to hash or hide password
+  * mongoose - Used to connect to MongoDB database
+  * cors - Cross Origin Resource Sharing
+ Run "npm install express nodemon bcryptjs mongoose cors"
+5. Add a "start" script in your package.json with "nodemon backend/server".js".
+
+
+
+====== HTTP Requests ======
+get - Read Data
+post - Create Data
+put - Update Data
+delete - Destroy Data
+
+CRUD Operation 
+C - Create
+R - Read
+U - Update
+D - Destroy

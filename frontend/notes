@@ -1,0 +1,7 @@
+Packages to install
+react-router-dom
+sweetalert2
+validator
+axios
+
+- Whenever you want to send a http request you use an async await function.
